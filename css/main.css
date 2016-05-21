@@ -1,0 +1,20 @@
+.backgr{
+	border: 2px solid rgba(202, 137, 0, 0.99);
+    height: 400px;
+}
+input{
+	width: 23em;
+    margin-bottom: 10px !important;
+}
+img{
+	width: 60%;
+    margin: 5% 10%;
+}
+.comparador {
+	padding:1% 2%;
+    background-image: none;
+    border: 1px solid transparent;
+	color: #fff;
+    background-color: #f0ad4e;
+    border-color: #eea236;
+}
